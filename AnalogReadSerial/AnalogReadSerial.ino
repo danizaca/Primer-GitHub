@@ -15,6 +15,7 @@ void setup() {
   // initialize serial communication at 9600 bits per second:
   Serial.begin(9600);
   Serial.println("Version 2")
+  Serial.println("Version 3")
 }
 
 // the loop routine runs over and over again forever:
