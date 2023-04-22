@@ -19,7 +19,8 @@ void setup() {
 
   Serial.print("V1 DE NUEVA RAMA")
   Serial.print("V2 DE NUEVA RAMA")
-
+  
+  Serial.print("Primera edición desde GitHub")
 }
 
 // the loop routine runs over and over again forever:
